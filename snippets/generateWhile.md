@@ -2,7 +2,7 @@
 title: Generate while condition is met
 tags: function,generator
 author: chalarangelo
-cover: lake-loop
+cover: blog_images/lake-loop.jpg
 firstSeen: 2022-01-21T05:00:00-04:00
 ---
 

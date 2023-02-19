@@ -1,7 +1,7 @@
 ---
 title: Pluck values from array of objects
 tags: array,object
-cover: birds
+cover: blog_images/birds.jpg
 firstSeen: 2020-10-18T01:19:37+03:00
 lastUpdated: 2020-10-22T20:24:04+03:00
 ---

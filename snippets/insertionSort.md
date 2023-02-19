@@ -2,7 +2,7 @@
 title: Insertion sort
 tags: algorithm,array
 author: chalarangelo
-cover: goat-wooden-cottage
+cover: blog_images/goat-wooden-cottage.jpg
 firstSeen: 2020-12-28T21:53:53+02:00
 lastUpdated: 2020-12-28T21:53:53+02:00
 ---

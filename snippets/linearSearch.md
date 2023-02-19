@@ -1,7 +1,8 @@
 ---
 title: Linear search
 tags: algorithm,array
-cover: coworking-space
+author: maciv
+cover: blog_images/coworking-space.jpg
 firstSeen: 2020-12-28T12:07:53+02:00
 lastUpdated: 2020-12-28T12:07:53+02:00
 ---

@@ -2,7 +2,7 @@
 title: Remove class from HTML element
 tags: browser
 author: chalarangelo
-cover: bag-waiting
+cover: blog_images/bag-waiting.jpg
 firstSeen: 2020-12-30T19:21:15+02:00
 lastUpdated: 2020-12-30T19:21:15+02:00
 ---

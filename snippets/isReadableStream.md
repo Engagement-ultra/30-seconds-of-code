@@ -1,7 +1,7 @@
 ---
 title: Stream is readable
 tags: node,type
-cover: working-bee
+cover: blog_images/working-bee.jpg
 firstSeen: 2018-10-03T22:16:10+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---

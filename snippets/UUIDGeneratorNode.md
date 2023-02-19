@@ -1,7 +1,7 @@
 ---
 title: Generate UUID (Node.js)
 tags: node,random
-cover: digital-nomad-7
+cover: blog_images/digital-nomad-7.jpg
 firstSeen: 2017-12-29T09:47:10+02:00
 lastUpdated: 2022-03-14T17:41:43+03:00
 ---

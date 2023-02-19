@@ -2,7 +2,7 @@
 title: Deep merge objects
 tags: object,function
 author: chalarangelo
-cover: coffee-drip
+cover: blog_images/coffee-drip.jpg
 firstSeen: 2021-07-25T05:00:00-04:00
 ---
 

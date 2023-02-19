@@ -1,7 +1,7 @@
 ---
 title: Check object equality
 tags: object,array,type,recursion
-cover: beach-pineapple
+cover: blog_images/beach-pineapple.jpg
 firstSeen: 2018-01-15T18:34:11+02:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---

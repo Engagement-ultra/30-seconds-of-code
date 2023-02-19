@@ -1,7 +1,7 @@
 ---
 title: Debounce function
 tags: function
-cover: solitude-beach
+cover: blog_images/solitude-beach.jpg
 firstSeen: 2018-01-28T15:18:26+02:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---

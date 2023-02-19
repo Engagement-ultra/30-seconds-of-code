@@ -2,7 +2,7 @@
 title: Number to fixed-point notation without trailing zeros
 tags: math,string
 author: chalarangelo
-cover: red-succulent
+cover: blog_images/red-succulent.jpg
 firstSeen: 2022-05-10T05:00:00-04:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Pascalcase string
 tags: string,regexp
-cover: camera-zoom
+cover: blog_images/camera-zoom.jpg
 firstSeen: 2021-09-08T19:21:13+00:00
 ---
 

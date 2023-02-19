@@ -1,7 +1,7 @@
 ---
 title: Remove attributes
 tags: browser
-cover: new-york
+cover: blog_images/new-york.jpg
 author: chalarangelo
 firstSeen: 2022-07-20T05:00:00-04:00
 ---

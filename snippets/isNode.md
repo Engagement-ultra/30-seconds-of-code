@@ -1,7 +1,7 @@
 ---
 title: Environment is Node.js
 tags: node,browser
-cover: cloudy-rock-formation
+cover: blog_images/cloudy-rock-formation.jpg
 firstSeen: 2020-10-12T20:01:21+03:00
 lastUpdated: 2021-04-02T11:45:13+03:00
 ---

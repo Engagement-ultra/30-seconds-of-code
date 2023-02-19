@@ -2,7 +2,7 @@
 title: Index array based on function
 tags: array,object
 author: chalarangelo
-cover: guitar-living-room
+cover: blog_images/guitar-living-room.jpg
 firstSeen: 2021-06-20T05:00:00-04:00
 ---
 

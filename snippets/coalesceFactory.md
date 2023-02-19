@@ -1,7 +1,7 @@
 ---
 title: Argument coalescing factory
 tags: function,type
-cover: coffee-phone-tray
+cover: blog_images/coffee-phone-tray.jpg
 firstSeen: 2017-12-18T12:15:36+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---

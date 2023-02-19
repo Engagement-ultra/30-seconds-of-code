@@ -1,7 +1,7 @@
 ---
 title: Array to CSV
 tags: array,string
-cover: sunrise-over-city
+cover: blog_images/sunrise-over-city.jpg
 firstSeen: 2018-06-27T20:26:43+03:00
 lastUpdated: 2020-11-03T21:55:08+02:00
 ---

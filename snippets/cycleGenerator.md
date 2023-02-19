@@ -2,7 +2,7 @@
 title: Cycle generator
 tags: function,generator
 author: chalarangelo
-cover: secret-tree
+cover: blog_images/secret-tree.jpg
 firstSeen: 2020-10-11T17:05:38+03:00
 lastUpdated: 2020-10-11T17:05:38+03:00
 ---

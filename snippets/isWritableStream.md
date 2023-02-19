@@ -1,7 +1,7 @@
 ---
 title: Stream is writable
 tags: node,type
-cover: digital-nomad-3
+cover: blog_images/digital-nomad-3.jpg
 firstSeen: 2018-10-03T22:16:10+03:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---

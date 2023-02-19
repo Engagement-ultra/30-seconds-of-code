@@ -2,7 +2,7 @@
 title: Check if sessionStorage is enabled
 tags: browser
 author: chalarangelo
-cover: flower-camera
+cover: blog_images/flower-camera.jpg
 firstSeen: 2020-12-31T13:13:47+02:00
 lastUpdated: 2020-12-31T13:13:47+02:00
 ---

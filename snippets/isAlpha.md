@@ -1,7 +1,7 @@
 ---
 title: String is alpha
 tags: string,regexp
-cover: coffee-phone-tray-3
+cover: blog_images/coffee-phone-tray-3.jpg
 firstSeen: 2020-12-31T14:01:42+02:00
 lastUpdated: 2020-12-31T14:01:42+02:00
 ---

@@ -2,7 +2,7 @@
 title: Number is power of two
 tags: math
 author: chalarangelo
-cover: flower-portrait-10
+cover: blog_images/flower-portrait-10.jpg
 firstSeen: 2019-12-31T13:17:12+02:00
 lastUpdated: 2020-10-20T23:02:01+03:00
 ---

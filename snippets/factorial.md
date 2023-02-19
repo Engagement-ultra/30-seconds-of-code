@@ -1,7 +1,7 @@
 ---
 title: Factorial of number
 tags: math,algorithm,recursion
-cover: flower-vase
+cover: blog_images/flower-vase.jpg
 firstSeen: 2017-12-07T14:41:33+02:00
 lastUpdated: 2020-12-28T13:49:24+02:00
 ---

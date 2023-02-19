@@ -2,7 +2,7 @@
 title: Toggle element in array
 tags: array
 author: chalarangelo
-cover: digital-nomad-7
+cover: blog_images/digital-nomad-7.jpg
 firstSeen: 2022-04-15T05:00:00-04:00
 ---
 

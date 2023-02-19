@@ -2,7 +2,7 @@
 title: Handle scroll stop
 tags: browser,event
 author: chalarangelo
-cover: flower-pond
+cover: blog_images/flower-pond.jpg
 firstSeen: 2021-01-07T00:31:14+02:00
 lastUpdated: 2021-01-07T00:31:14+02:00
 ---

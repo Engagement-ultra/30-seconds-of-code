@@ -1,7 +1,8 @@
 ---
 title: Quick sort
 tags: algorithm,array,recursion
-cover: eagle
+author: maciv
+cover: blog_images/eagle.jpg
 firstSeen: 2017-12-28T13:42:41+02:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---

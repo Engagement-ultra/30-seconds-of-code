@@ -1,7 +1,7 @@
 ---
 title: Ungroup array elements based on function
 tags: array
-cover: coconuts
+cover: blog_images/coconuts.jpg
 firstSeen: 2018-01-24T12:44:16+02:00
 lastUpdated: 2022-01-23T13:18:50+03:00
 ---

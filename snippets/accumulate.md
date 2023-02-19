@@ -2,7 +2,7 @@
 title: Partial sum array
 tags: math,array
 author: chalarangelo
-cover: river-house-lights
+cover: blog_images/river-house-lights.jpg
 firstSeen: 2020-05-04T12:20:46+03:00
 lastUpdated: 2022-01-30T13:10:13+02:00
 ---

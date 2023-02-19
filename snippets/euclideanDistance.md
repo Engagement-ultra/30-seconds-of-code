@@ -2,7 +2,7 @@
 title: Euclidean distance
 tags: math,algorithm
 author: chalarangelo
-cover: ancient-greek-building
+cover: blog_images/ancient-greek-building.jpg
 firstSeen: 2020-12-28T13:41:19+02:00
 lastUpdated: 2020-12-28T13:41:19+02:00
 ---

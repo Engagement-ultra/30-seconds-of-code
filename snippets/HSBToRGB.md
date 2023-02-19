@@ -1,7 +1,7 @@
 ---
 title: HSB to RGB
 tags: math
-cover: houses-rock-sea
+cover: blog_images/houses-rock-sea.jpg
 firstSeen: 2020-09-18T14:25:07+03:00
 lastUpdated: 2020-09-18T14:25:07+03:00
 ---

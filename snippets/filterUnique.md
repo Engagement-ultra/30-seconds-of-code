@@ -1,7 +1,8 @@
 ---
 title: Filter unique array values
 tags: array
-cover: tulips-and-reeds
+author: maciv
+cover: blog_images/tulips-and-reeds.jpg
 firstSeen: 2020-11-02T19:41:00+02:00
 lastUpdated: 2020-11-02T19:41:00+02:00
 ---

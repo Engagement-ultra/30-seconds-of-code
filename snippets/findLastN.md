@@ -1,7 +1,7 @@
 ---
 title: Find last n matches
 tags: array
-cover: interior-16
+cover: blog_images/interior-16.jpg
 firstSeen: 2021-05-09T13:31:36+03:00
 lastUpdated: 2021-05-09T13:31:36+03:00
 ---

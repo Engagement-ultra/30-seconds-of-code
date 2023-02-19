@@ -1,7 +1,7 @@
 ---
 title: Reverse string
 tags: string
-cover: type-stamps
+cover: blog_images/type-stamps.jpg
 firstSeen: 2017-12-17T17:55:51+02:00
 lastUpdated: 2020-10-18T14:58:09+03:00
 ---

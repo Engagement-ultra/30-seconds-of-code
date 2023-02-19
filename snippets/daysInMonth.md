@@ -1,7 +1,7 @@
 ---
 title: Number of days in month
 tags: date
-cover: laptop-plants-2
+cover: blog_images/laptop-plants-2.jpg
 firstSeen: 2021-06-13T05:00:00-04:00
 ---
 

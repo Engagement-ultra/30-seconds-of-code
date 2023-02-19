@@ -1,7 +1,8 @@
 ---
 title: Arithmetic progression
 tags: math,algorithm
-cover: u-got-this
+author: maciv
+cover: blog_images/u-got-this.jpg
 firstSeen: 2020-10-04T11:37:07+03:00
 lastUpdated: 2021-10-13T19:29:39+02:00
 ---

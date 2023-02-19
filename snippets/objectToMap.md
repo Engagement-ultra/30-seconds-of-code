@@ -3,7 +3,7 @@ title: Convert object to Map
 shortTitle: Object to Map
 tags: object
 author: chalarangelo
-cover: succulent-2
+cover: blog_images/succulent-2.jpg
 firstSeen: 2022-06-16T05:00:00-04:00
 ---
 

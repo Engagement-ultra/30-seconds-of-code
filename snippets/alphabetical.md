@@ -2,7 +2,7 @@
 title: Sort array alphabetically
 tags: array
 author: chalarangelo
-cover: boutique-home-office-1
+cover: blog_images/boutique-home-office-1.jpg
 firstSeen: 2023-02-15T05:00:00-04:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Array permutations
 tags: array,algorithm,recursion
-cover: body-of-water
+cover: blog_images/body-of-water.jpg
 firstSeen: 2018-02-19T15:47:47+02:00
 lastUpdated: 2020-12-28T13:49:24+02:00
 ---

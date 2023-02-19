@@ -1,7 +1,7 @@
 ---
 title: NodeList to array
 tags: browser,array
-cover: colors-mural
+cover: blog_images/colors-mural.jpg
 firstSeen: 2018-05-06T18:11:21+03:00
 lastUpdated: 2020-10-21T21:54:53+03:00
 ---

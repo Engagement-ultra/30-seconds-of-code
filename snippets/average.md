@@ -1,7 +1,7 @@
 ---
 title: Average of numbers
 tags: math,array
-cover: interior-8
+cover: blog_images/interior-8.jpg
 firstSeen: 2017-12-29T13:29:49+02:00
 lastUpdated: 2020-10-22T20:23:47+03:00
 ---

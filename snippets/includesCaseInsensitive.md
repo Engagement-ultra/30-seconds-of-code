@@ -2,7 +2,7 @@
 title: Case-insensitive substring search
 tags: string
 author: chalarangelo
-cover: cup-of-orange
+cover: blog_images/cup-of-orange.jpg
 firstSeen: 2022-07-28T05:00:00-04:00
 ---
 

@@ -2,7 +2,7 @@
 title: Generate until condition is met
 tags: function,generator
 author: chalarangelo
-cover: type-stamps
+cover: blog_images/type-stamps.jpg
 firstSeen: 2022-01-21T05:00:00-04:00
 ---
 

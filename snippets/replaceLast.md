@@ -2,7 +2,7 @@
 title: Replace last occurrence in string
 tags: string,regexp
 author: chalarangelo
-cover: waves
+cover: blog_images/waves.jpg
 firstSeen: 2021-04-22T09:01:22+03:00
 lastUpdated: 2021-04-22T09:01:22+03:00
 ---

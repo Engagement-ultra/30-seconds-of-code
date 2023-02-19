@@ -2,7 +2,7 @@
 title: Chunk iterable
 tags: function,generator,array
 author: chalarangelo
-cover: cave-view
+cover: blog_images/cave-view.jpg
 firstSeen: 2021-03-16T22:50:40+02:00
 lastUpdated: 2021-03-16T22:50:40+02:00
 ---
